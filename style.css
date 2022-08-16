@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace;
+}
+html,body{
+    padding: 0;
+    
+}
+h1{
+    font-size: 50px;
+    background-color:rgb(5, 166, 230);
+   margin-left: 25%;
+   margin-right: 25%;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+}
+
+#loginpanel{
+    /*
+    
+   margin: auto;
+   
+    */
+    text-align: center;
+    margin: auto;
+    background-color: rgb(5, 166, 230);
+    border-radius: 20px;
+    margin-top: 20px;
+    
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flexbox;  
+    margin-left: 25%;
+    margin-right: 25%;  
+   
+}
+.button{
+    height: 100px;
+    width: 200px;
+    background-color:rgb(162, 178, 189);
+   font-size: 20px; 
+   border-radius: 20px;
+    border-color: rgb(29, 32, 32, 0.829);
+   margin-bottom: 20px;
+  
+
+   
+   
+
+}
+.loginbut
+{
+    height: 50px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.navul
+{
+    background-color: rgb(16, 16, 244);
+    display: inline;
+}
+
